@@ -435,6 +435,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="cae682" />
@@ -557,14 +558,7 @@
         <option name="FOREGROUND" value="d4c4a9" />
       </value>
     </option>
-    <option name="List/map to object conversion">
-      <value>
-        <option name="FOREGROUND" value="589df6" />
-        <option name="BACKGROUND" value="2b2b2b" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value />
     </option>
