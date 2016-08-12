@@ -5,5 +5,24 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python 3.5.2 (C:\Python35\python.exe) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python35/DLLs" />
+        <root url="file://C:/Python35/Lib" />
+        <root url="file://C:/Python35" />
+        <root url="file://C:/Python35/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-1313743207" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python35/DLLs" />
+        <root url="file://C:/Python35/Lib" />
+        <root url="file://C:/Python35" />
+        <root url="file://C:/Python35/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-1313743207" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
   </component>
 </application>
